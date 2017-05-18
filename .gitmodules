@@ -1,0 +1,9 @@
+[submodule "API"]
+	path = API
+	url = git@github.com:OppaiParty/CompetitionProgrammingJudgeSystemAPI.git
+[submodule "DesktopClient"]
+	path = DesktopClient
+	url = git@github.com:OppaiParty/CompetitionProgrammingJudgeSystemDesktopClient.git
+[submodule "MobileClient"]
+	path = MobileClient
+	url = git@github.com:OppaiParty/CompetitionProgrammingJudgeSystemMobileClient.git
